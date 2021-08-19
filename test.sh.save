@@ -1,0 +1,2 @@
+g++ -I/usr/include/cryptopp/ -L/usr/lib6 -lcryptopp
+./a.out
